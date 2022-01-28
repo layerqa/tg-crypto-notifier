@@ -1,0 +1,6 @@
+bot_token=Bot token from @botrather
+telegram_id=If of user, channel, group
+log_level=INFO, DEBUG, ERROR, WARNING
+interval=In seconds
+coin_id=Coin symbol, the-open-network
+vs_currenci=Currenci symbol, rub
